@@ -1,7 +1,7 @@
 Rude Software License
 =====================
 
-Bored of regular open source sofware licenses? Want to drive your point
+Bored of regular open source software licenses? Want to drive your point
 home more forcefully? This license is for you.
 
 Full Text of License
